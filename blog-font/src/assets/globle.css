@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+}
+html{
+    background-image: url("/src/assets/main.jpg") ;
+    background-attachment:fixed ;
+}
+.ml-5{
+    margin-left: 5px;
+}
+
+.mr-5 {
+    margin-right: 5px;
+}
+
+.pd-10 {
+    padding: 10px 0;
+}
+.v-note-panel{
+    border: none !important;
+}
+.v-show-content{
+    background-color: white !important;
+}
